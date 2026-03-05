@@ -1,69 +1,101 @@
-# MIT-Budget 💰
+# MIT-Budget
 
-MIT-Budget is a simple **web-based budget management application** that allows users to track income and expenses easily.  
-This project is built using **HTML, CSS, and JavaScript**, and runs entirely in the browser without any backend.
-
----
-
-## 📌 Project Description
-
-MIT-Budget helps users:
-- Add income
-- Add expenses
-- Calculate total expenses
-- View remaining balance in real time
-
-This project is ideal for beginners to practice JavaScript and DOM manipulation.
+A simple **Budget Management Web Application** that helps users track their income and expenses easily.
+This project is designed to demonstrate basic budgeting functionality using **HTML, CSS, and JavaScript**.
 
 ---
 
-## 🚀 Live Demo
+## 📌 Features
 
-(Add your GitHub Pages link here if available)
-
-👉 https://memonul-islam-tuhin.github.io/MIT-Budget
-
----
-
-## ✨ Features
-
-- Add income and expenses
-- Automatic balance calculation
-- Clean and simple user interface
-- Fully client-side application
-- Responsive design
+* ➕ Add Income
+* ➖ Add Expenses
+* 📊 View Total Balance
+* 📂 Simple and Clean Interface
+* ⚡ Easy to Run Locally
 
 ---
 
-## 🧠 How It Works
+## 🛠 Technologies Used
 
-- **index.html** – Creates the structure of the app  
-- **style.css** – Handles styling and layout  
-- **script.js** – Manages budget calculations and UI updates  
-
-All logic is handled using JavaScript in the browser.
+* HTML5
+* CSS3
+* JavaScript
 
 ---
 
-## 🗂 Project Structure
+## 📥 How to Clone the Repository
 
+Open your **Terminal / Command Prompt / Git Bash** and run the following command:
 
-
-
-MIT-Budget/
-│
-├── index.html # Main HTML file
-├── style.css # CSS styling
-├── script.js # JavaScript logic
-└── README.md # Documentation
-
-
-
-
+```bash
 git clone https://github.com/Memonul-Islam-Tuhin/MIT-Budget.git
+```
 
+---
 
+## 📁 Navigate to the Project Folder
 
+After cloning, move into the project directory:
 
+```bash
+cd MIT-Budget
+```
 
-                                          Memonul-Islam-Tuhin
+---
+
+## 💻 Open the Project in Code Editor
+
+If you are using **Visual Studio Code**, run:
+
+```bash
+code .
+```
+
+If `code .` does not work, simply open **VS Code → File → Open Folder → Select MIT-Budget**.
+
+---
+
+## ▶️ Run the Project
+
+### Method 1: Directly Open in Browser
+
+1. Go to the project folder
+2. Find the file named **index.html**
+3. Double click it
+4. The project will open in your default browser
+
+---
+
+### Method 2: Using VS Code Live Server (Recommended)
+
+1. Install **Live Server Extension** in VS Code
+2. Right click on **index.html**
+3. Click **Open with Live Server**
+
+---
+
+## 📂 Project Structure
+
+```
+MIT-Budget
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+---
+
+## 👨‍💻 Author
+
+**Memonul Islam Tuhin**
+
+GitHub:
+https://github.com/Memonul-Islam-Tuhin
+
+---
+
+## 📜 License
+
+This project is open-source and available under the **MIT License**.
